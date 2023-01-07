@@ -5,4 +5,4 @@ ARDUINO
 By using the keyboard we control the LEDs on the board, using the potentiometer we change the parameters in the game, just look in thirdpersonBP.
 
 
-<img src="https://github.com/iceman2146/ARDUINO/blob/main/1441897d-7b75-49e3-a562-0f114c0c3f6b.png" alt="drawing" height="400"/>
+<h1 align="center"><img src="https://github.com/iceman2146/ARDUINO/blob/main/1441897d-7b75-49e3-a562-0f114c0c3f6b.png" alt="drawing" height="400"/></h1>
